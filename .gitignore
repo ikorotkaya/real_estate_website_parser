@@ -2,3 +2,5 @@
 .byebug_history
 all_houses.yaml
 all_houses_with_flats.yaml
+disliked_flats.yaml
+liked_flats.yaml
