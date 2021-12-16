@@ -54,6 +54,7 @@ def parse_flat_links(link)
       one_flat[:rooms_count] = params[2].split("\n").first.to_i
       one_flat[:name] = params[3]
 
+
       flats.push(one_flat)
     end
   end
